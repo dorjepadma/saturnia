@@ -9,6 +9,9 @@ function App() {
         <p>
         Saturnia.io
         </p>
+        <p>
+        Astrological and Magical Services
+        </p>
       </header>
     </div>
   );
